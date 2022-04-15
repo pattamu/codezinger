@@ -36,4 +36,19 @@ Given an array ofintegers, write a program to rotate the array to the right side
 // }
 // console.log("After Shifting "+k+" times: ",arr2)
 
+/*
+Absolute difference between first and last element of array without using Math.abs()
+*/
+
+// const arr = prompt('Enter elemets for the Array with spaces: ').split(' ')
+// console.log("The Array is: ",arr)
+// if(arr[0] < 0)
+//     arr[0] = arr[0] - (arr[0] * 2)
+// if(arr[arr.length-1] < 0)
+//     arr[arr.length-1] = arr[arr.length-1] - (arr[arr.length-1] * 2)
+// let diff = arr[0] - arr[arr.length-1]
+// if(diff < 0)
+//     diff = diff - diff * 2
+// console.log("The Absolute Difference is: ",diff)
+
 /***********************************************************************************************/
